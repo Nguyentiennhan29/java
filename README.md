@@ -157,6 +157,7 @@ Nhập đề  →  Phân tích  →  Test Cases  →  Sinh Code  →  Chạy & K
 ---
 
 ## Cấu trúc thư mục
+```
 testjava/
 └── src/
     └── com/judge/
@@ -178,6 +179,7 @@ testjava/
         │   └── OtherPanels.java    # CodeGen + Execution + Settings
         └── util/
             └── Json.java           # JSON parser đơn giản
+```
 
 ## Các lỗi thường gặp
 
